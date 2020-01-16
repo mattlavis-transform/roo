@@ -8,8 +8,14 @@ class application(object):
         self.connect()
 
     def connect(self):
+        path = os.path.join(os.getcwd(), "output")
+        self.CONFIG_FILE = os.path.join(path, "config.json")
+        with open(self.CONFIG_FILE, 'r') as f:
+            my_dict = json.load(f)
+            p = my_dict['p']
+
         self.conn = psycopg2.connect(
-            "dbname=tariff_eu user=postgres password=zanzibar")
+            "dbname=tariff_eu user=postgres password=" + p)
 
     def get_schemes(self, rules_of_origin_scheme_sid):
         sql = """

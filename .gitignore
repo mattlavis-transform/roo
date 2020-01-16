@@ -2,3 +2,4 @@
 __pycache__
 source
 output/_temp
+config.json
