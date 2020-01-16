@@ -1,0 +1,2629 @@
+{
+    "chapters": [
+        {
+            "number": "01",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "(1)",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "02",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 2",
+                    "processing_rule": "Meat and edible meat offal<br />Manufacture in which all the materials of Chapters 1 and 2 used are wholly obtained"
+                }
+            ]
+        },
+        {
+            "number": "03",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 3",
+                    "processing_rule": "Fish and crustaceans, molluscs and other aquatic invertebrates<br />Manufacture in which all the materials of Chapter 3 used are wholly obtained"
+                }
+            ]
+        },
+        {
+            "number": "04",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 4",
+                    "processing_rule": "Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included; except for:<br />Manufacture in which all the materials of Chapter 4 used are wholly obtained"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "05",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 5",
+                    "processing_rule": "Products of animal origin, not elsewhere specified or included; except for:<br />Manufacture in which all the materials of Chapter 5 used are wholly obtained"
+                }
+            ]
+        },
+        {
+            "number": "06",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 6",
+                    "processing_rule": "Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage<br />Manufacture in which<br />- all the materials of Chapter 6 used are wholly obtained,<br />- the value of all the materials used does not exceed 50% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "07",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 7",
+                    "processing_rule": "Edible vegetables and certain roots and tubers<br />Manufacture in which all the materials of Chapter 7 used are wholly obtained"
+                }
+            ]
+        },
+        {
+            "number": "08",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 8",
+                    "processing_rule": "Edible fruit and nuts; peel of citrus fruits or melons<br />Manufacture in which<br />- all the fruit and nuts used are wholly obtained,<br />- the value of all the materials of Chapter 17 used does not exceed 30% of the value of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "09",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 9",
+                    "processing_rule": "Coffee, tea, mat\u00e9 and spices; except for:<br />Manufacture in which all the materials of Chapter 9 used are wholly obtained"
+                }
+            ]
+        },
+        {
+            "number": "10",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 10",
+                    "processing_rule": "Cereals<br />Manufacture in which all the materials of Chapter 10 used are wholly obtained"
+                }
+            ]
+        },
+        {
+            "number": "11",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 11",
+                    "processing_rule": "Products of the milling industry; malt; starches; inulin; wheat gluten; except for:<br />Manufacture in which all the cereals, edible vegetables, roots and tubers of heading 0714 or fruit used are wholly obtained"
+                }
+            ]
+        },
+        {
+            "number": "12",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 12",
+                    "processing_rule": "Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodde<br />Manufacture in which all the materials of Chapter 12 used are wholly obtained"
+                }
+            ]
+        },
+        {
+            "number": "13",
+            "rows": [
+                {
+                    "id": "1301",
+                    "description": "Lac; natural gums, resins, gum-resins and oleoresins (for example, balsams)",
+                    "processing_rule": "Manufacture in which the value of all the materials of heading 1301 used does not exceed 50% of the ex-works price of the product"
+                },
+                {
+                    "id": "1302",
+                    "description": "Vegetable saps and extracts; pectic substances, pectinates and pectates; agar-agar and other mucilages and thickeners, whether or not modified, derived from vegetable products:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Mucilages and thickeners, modified, derived from vegetable products",
+                    "processing_rule": "Manufacture from non-modified mucilages and thickeners"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture in which the value of all the materials used does not exceed 50% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "14",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 14",
+                    "processing_rule": "Vegetable plaiting materials; vegetable products not elsewhere specified or included<br />Manufacture in which all the materials of Chapter 14 used are wholly obtained"
+                }
+            ]
+        },
+        {
+            "number": "15",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 15",
+                    "processing_rule": "Animal or vegetable fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes; except for:<br />Manufacture from materials of any heading, except that of the product"
+                },
+                {
+                    "id": "1501",
+                    "description": "Pig fat (including lard) and poultry fat, other than that of heading 0209 or 1503:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Fats from bones or waste",
+                    "processing_rule": "Manufacture from materials of any heading, except those of heading 0203, 0206 or 0207 or bones of heading 0506"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from meat or edible offal of swine of heading 0203 or 0206 or of meat and edible offal of poultry of heading 0207"
+                },
+                {
+                    "id": "1502",
+                    "description": "Fats of bovine animals, sheep or goats, other than those of heading 1503",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Fats from bones or waste",
+                    "processing_rule": "Manufacture from materials of any heading, except those of heading 0201, 0202, 0204 or 0206 or bones of heading 0506"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture in which all the materials of Chapter 2 used are wholly obtained"
+                },
+                {
+                    "id": "1504",
+                    "description": "Fats and oils and their fractions, of fish or marine mammals, whether or not refined, but not chemically modified:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Solid fractions",
+                    "processing_rule": "Manufacture from materials of any heading, including other materials of heading 1504"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture in which all the materials of Chapters 2 and 3 used are wholly obtained"
+                },
+                {
+                    "id": "1506",
+                    "description": "Other animal fats and oils and their fractions, whether or not refined, but not chemically modified:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Solid fractions",
+                    "processing_rule": "Manufacture from materials of any heading, including other materials of heading 1506"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture in which all the materials of Chapter 2 used are wholly obtained"
+                },
+                {
+                    "id": "1507 to 1515",
+                    "description": "Vegetable oils and their fractions:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Soya, ground nut, palm, copra, palm kernel, babassu, tung and oiticica oil, myrtle wax and Japan wax, fractions of jojoba oil and oils for technical or industrial uses other than the manufacture of foodstuffs for human consumption",
+                    "processing_rule": "Manufacture from materials of any heading, except that of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- Solid fractions, except for that of jojoba oil",
+                    "processing_rule": "Manufacture from other materials of headings 1507 to 1515"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture in which all the vegetable materials used are wholly obtained"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "16",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 16",
+                    "processing_rule": "Preparations of meat, of fish or of crustaceans, molluscs or other aquatic invertebrates<br />Manufacture<br />- from animals of Chapter 1,<br />- in which all the materials of Chapter 3 used are wholly obtained"
+                },
+                {
+                    "id": "",
+                    "description": "and/o",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "17",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 17",
+                    "processing_rule": "Sugars and sugar confectionery; except for:<br />Manufacture from materials of any heading, except that of the product"
+                },
+                {
+                    "id": "1702",
+                    "description": "Other sugars, including chemically pure lactose, maltose, glucose and fructose, in solid form; sugar syrups not containing added flavouring or colouring matter; artificial honey, whether or not mixed with natural honey; caramel:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Chemically-pure maltose and fructose",
+                    "processing_rule": "Manufacture from materials of any heading, including other materials of heading 1702"
+                },
+                {
+                    "id": "",
+                    "description": "- Other sugars in solid form, containing added flavouring or colouring matte",
+                    "processing_rule": "Manufacture in which the value of all the materials of Chapter 17 used does not exceed 30% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture in which all the materials used are originating"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "18",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 18",
+                    "processing_rule": "Cocoa and cocoa preparations<br />Manufacture<br />- from materials of any heading, except that of the product,<br />- in which the value of all the materials of Chapter 17 used does not exceed 30% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "19",
+            "rows": [
+                {
+                    "id": "1901",
+                    "description": "Malt extract; food preparations of flour, groats, meal, starch or malt extract, not containing cocoa or containing less than 40% by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included; food preparations of goods of headings 0401 to 0404, not containing cocoa or containing less than 5% by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Malt extract",
+                    "processing_rule": "Manufacture from cereals of Chapter 10"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture<br />- from materials of any heading, except that of the product,<br />- in which the value of all the materials of Chapter 17 used does not exceed 30% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "1902",
+                    "description": "Pasta, whether or not cooked or stuffed (with meat or other substances) or otherwise prepared, such as spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Containing 20% or less by weight of meat, meat offal, fish, crustaceans or molluscs",
+                    "processing_rule": "Manufacture in which all the cereals and derivatives (except durum wheat and its derivatives) used are wholly obtained"
+                },
+                {
+                    "id": "",
+                    "description": "- Containing more than 20% by weight of meat, meat offal, fish, crustaceans or molluscs",
+                    "processing_rule": "Manufacture in which<br />- all the cereals and their derivatives (except durum wheat and its derivatives) used are wholly obtained,<br />- all the materials of Chapters 2 and 3 used are wholly obtained"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "20",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 20",
+                    "processing_rule": "Preparations of vegetables, fruit, nuts or other parts of plants; except for:<br />Manufacture in which all the fruit, nuts or vegetables used are wholly obtained"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "ex 2008",
+                    "description": "- Nuts, not containing added sugar or spirits",
+                    "processing_rule": "Manufacture in which the value of all the originating nuts and oil seeds of headings 0801, 0802 and 1202 to 1207 used exceeds 60% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- Peanut butter; mixtures based on cereals; palm hearts; maize (corn)",
+                    "processing_rule": "Manufacture from materials of any heading, except that of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- Other except for fruit and nuts cooked otherwise than by steaming or boiling in water, not containing added sugar, frozen",
+                    "processing_rule": "Manufacture<br />- from materials of any heading, except that of the product,<br />- in which the value of all the materials of Chapter 17 used does not exceed 30% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "21",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 21",
+                    "processing_rule": "Miscellaneous edible preparations; except for:<br />Manufacture from materials of any heading, except that of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "2103",
+                    "description": "Sauces and preparations therefor; mixed condiments and mixed seasonings; mustard flour and meal and prepared mustard:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Sauces and preparations therefor; mixed condiments and mixed seasonings",
+                    "processing_rule": "Manufacture from materials of any heading, except that of the product. However, mustard flour or meal or prepared mustard may be used"
+                },
+                {
+                    "id": "",
+                    "description": "- Mustard flour and meal and prepared mustard",
+                    "processing_rule": "Manufacture from materials of any heading"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "22",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 22",
+                    "processing_rule": "Beverages, spirits and vinegar; except for:<br />Manufacture<br />- from materials of any heading, except that of the product,<br />- in which all the grapes or materials derived from grapes used are wholly obtained"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "23",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 23",
+                    "processing_rule": "Residues and waste from the food industries; prepared animal fodder; except for:<br />Manufacture from materials of any heading, except that of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "24",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 24",
+                    "processing_rule": "Tobacco and manufactured tobacco substitutes; except for:<br />Manufacture in which all the materials of Chapter 24 used are wholly obtained"
+                }
+            ]
+        },
+        {
+            "number": "25",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 25",
+                    "processing_rule": "Salt; sulphur; earths and stone; plastering materials, lime and cement; except for:<br />Manufacture from materials of any heading, except that of the product"
+                }
+            ]
+        },
+        {
+            "number": "26",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 26",
+                    "processing_rule": "Ores, slag and ash<br />Manufacture from materials of any heading, except that of the product"
+                }
+            ]
+        },
+        {
+            "number": "27",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 27",
+                    "processing_rule": "Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes; except for:<br />Manufacture from materials of any heading, except that of the product"
+                }
+            ]
+        },
+        {
+            "number": "28",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 28",
+                    "processing_rule": "Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes; except for:<br />Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 20% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "29",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 29",
+                    "processing_rule": "Organic chemicals; except for:<br />Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 20% of the ex-works price of the product"
+                },
+                {
+                    "id": "ex 2932",
+                    "description": "- Internal ethers and their halogenated, sulphonated, nitrated or nitrosated derivatives",
+                    "processing_rule": "Manufacture from materials of any heading. However, the value of all the materials of heading 2909 used shall not exceed 20% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- Cyclic acetals and internal hemiacetals and their halogenated, sulphonated, nitrated or nitrosated derivatives",
+                    "processing_rule": "Manufacture from materials of any heading"
+                }
+            ]
+        },
+        {
+            "number": "30",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 30",
+                    "processing_rule": "Pharmaceutical products; except for:<br />Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 20% of the ex-works price of the product"
+                },
+                {
+                    "id": "3002",
+                    "description": "Human blood; animal blood prepared for therapeutic, prophylactic or diagnostic uses; antisera and other blood fractions and modified immunological products, whether or not obtained by means of biotechnological processes; vaccines, toxins, cultures of microorganisms (excluding yeasts) and similar products:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Products consisting of two or more constituents which have been mixed together for therapeutic or prophylactic uses or unmixed products for these uses, put up in measured doses or in forms or packings for retail sale",
+                    "processing_rule": "Manufacture from materials of any heading, including other materials of heading 3002. However, materials of the same description as the product may be used, provided that their total value does not exceed 20% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- - Human blood",
+                    "processing_rule": "Manufacture from materials of any heading, including other materials of heading 3002. However, materials of the same description as the product may be used, provided that their total value does not exceed 20% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- - Animal blood prepared for therapeutic or prophylactic uses",
+                    "processing_rule": "Manufacture from materials of any heading, including other materials of heading 3002. However, materials of the same description as the product may be used, provided that their total value does not exceed 20% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- - Blood fractions other than antisera, haemoglobin, blood globulins and serum globulins",
+                    "processing_rule": "Manufacture from materials of any heading, including other materials of heading 3002. However, materials of the same description as the product may be used, provided that their total value does not exceed 20% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- - Haemoglobin, blood globulins and serum globulins",
+                    "processing_rule": "Manufacture from materials of any heading, including other materials of heading 3002. However, materials of the same description as the product may be used, provided that their total value does not exceed 20% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- - Othe",
+                    "processing_rule": "Manufacture from materials of any heading, including other materials of heading 3002. However, materials of the same description as the product may be used, provided that their total value does not exceed 20% of the ex-works price of the product"
+                },
+                {
+                    "id": "3003 and 3004",
+                    "description": "Medicaments (excluding goods of heading 3002, 3005 or 3006):",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Obtained from amikacin of heading 2941",
+                    "processing_rule": "Manufacture from materials of any heading, except that of the product. However, materials of headings 3003 and 3004 may be used, provided that their total value does not exceed 20% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture<br />- from materials of any heading, except that of the product. However, materials of headings 3003 and 3004 may be used, provided that their total value does not exceed 20% of the ex-works price of the product,<br />- in which the value of all the materials used does not exceed 50% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "31",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 31",
+                    "processing_rule": "Fertilisers; except for:<br />Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 20% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "32",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 32",
+                    "processing_rule": "Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints and varnishes; putty and other mastics; inks; except for:<br />Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 20% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "33",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 33",
+                    "processing_rule": "Essential oils and resinoids; perfumery, cosmetic or toilet preparations; except for:<br />Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 20% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "34",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 34",
+                    "processing_rule": "Soap, organic surface-active agents, washing preparations, lubricating preparations, artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, 'dental waxes' and dental preparations with a basis of plaster; except for:<br />Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 20% of the ex-works price of the product"
+                },
+                {
+                    "id": "3404",
+                    "description": "Artificial waxes and prepared waxes:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- With a basis of paraffin, petroleum waxes, waxes obtained from bituminous minerals, slack wax or scale wax",
+                    "processing_rule": "Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 50% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from materials of any heading, except:<br />- hydrogenated oils having the character of waxes of heading 1516,<br />- fatty acids not chemically defined or industrial fatty alcohols having the character of waxes of heading 3823, and<br />- materials of heading 3404However, these materials may be used, provided that their total value does not exceed 20% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "35",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 35",
+                    "processing_rule": "Albuminoidal substances; modified starches; glues; enzymes; except for:<br />Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 20% of the ex-works price of the product"
+                },
+                {
+                    "id": "3505",
+                    "description": "Dextrins and other modified starches (for example, pregelatinised or esterified starches); glues based on starches, or on dextrins or other modified starches:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Starch ethers and esters",
+                    "processing_rule": "Manufacture from materials of any heading, including other materials of heading 3505"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from materials of any heading, except those of heading 1108"
+                }
+            ]
+        },
+        {
+            "number": "36",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 36",
+                    "processing_rule": "Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations<br />Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 20% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "37",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 37",
+                    "processing_rule": "Photographic or cinematographic goods; except for:<br />Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 20% of the ex-works price of the product"
+                },
+                {
+                    "id": "3701",
+                    "description": "Photographic plates and film in the flat, sensitised, unexposed, of any material other than paper, paperboard or textiles; instant print film in the flat, sensitised, unexposed, whether or not in packs:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Instant print film for colour photography, in packs",
+                    "processing_rule": "Manufacture from materials of any heading, except those of headings 3701 and 3702. However, materials of heading 3702 may be used, provided that their total value does not exceed 30% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from materials of any heading, except those of headings 3701 and 3702. However, materials of headings 3701 and 3702 may be used, provided that their total value does not exceed 20% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "38",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 38",
+                    "processing_rule": "Miscellaneous chemical products; except for:<br />Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 20% of the ex-works price of the product"
+                },
+                {
+                    "id": "ex 3801",
+                    "description": "- Colloidal graphite in suspension in oil and semi-colloidal graphite; carbonaceous pastes for electrodes",
+                    "processing_rule": "Manufacture in which the value of all the materials used does not exceed 50% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- Graphite in paste form, being a mixture of more than 30% by weight of graphite with mineral oils",
+                    "processing_rule": "Manufacture in which the value of all the materials of heading 3403 used does not exceed 20% of the ex-works price of the product"
+                },
+                {
+                    "id": "3811",
+                    "description": "Anti-knock preparations, oxidation inhibitors, gum inhibitors, viscosity improvers, anti-corrosive preparations and other prepared additives, for mineral oils (including gasoline) or for other liquids used for the same purposes as mineral oils:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Prepared additives for lubricating oil, containing petroleum oils or oils obtained from bituminous minerals",
+                    "processing_rule": "Manufacture in which the value of all the materials of heading 3811 used does not exceed 50% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture in which the value of all the materials used does not exceed 50% of the ex-works price of the product"
+                },
+                {
+                    "id": "3823",
+                    "description": "Industrial monocarboxylic fatty acids; acid oils from refining; industrial fatty alcohols:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Industrial monocarboxylic fatty acids, acid oils from refining",
+                    "processing_rule": "Manufacture from materials of any heading, except that of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- Industrial fatty alcohols",
+                    "processing_rule": "Manufacture from materials of any heading, including other materials of heading 3823"
+                },
+                {
+                    "id": "3824",
+                    "description": "Prepared binders for foundry moulds or cores; chemical products and preparations of the chemical or allied industries (including those consisting of mixtures of natural products), not elsewhere specified or included:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- The following of this heading:- - Prepared binders for foundry moulds or cores based on natural resinous products- - Naphthenic acids, their water-insoluble salts and their esters- - Sorbitol other than that of heading 2905- - Petroleum sulphonates, excluding petroleum sulphonates of alkali metals, of ammonium or of ethanolamines; thiophenated sulphonic acids of oils obtained from bituminous minerals, and their salts- - Ion exchangers- - Getters for vacuum tubes- - Alkaline iron oxide for the purification of gas- - Ammoniacal gas liquors and spent oxide produced in coal gas purification- - Sulphonaphthenic acids, their water-insoluble salts and their esters- - Fusel oil and Dippel's oil- - Mixtures of salts having different anions- - Copying pastes with a basis of gelatin, whether or not on a paper or textile backing",
+                    "processing_rule": "Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 20% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture in which the value of all the materials used does not exceed 50% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "39",
+            "rows": [
+                {
+                    "id": "3901 to 3915",
+                    "description": "Plastics in primary forms, waste, parings and scrap, of plastic; except for headings ex 3907 and 3912 for which the rules are set out below:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Addition homopolymerisation products in which a single monomer contributes more than 99% by weight to the total polymer content",
+                    "processing_rule": "Manufacture in which<br />- the value of all the materials used does not exceed 50% of the ex-works price of the product,<br />- within the above limit, the value of all the materials of Chapter 39 used does not exceed 20% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture in which the value of all the materials of Chapter 39 used does not exceed 20% of the ex-works price of the product"
+                },
+                {
+                    "id": "ex 3907",
+                    "description": "- Copolymer, made from polycarbonate and acrylonitrile-butadiene-styrene copolymer (ABS)",
+                    "processing_rule": "Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 50% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- Polyeste",
+                    "processing_rule": "Manufacture in which the value of all the materials of Chapter 39 used does not exceed 20% of the ex-works price of the product and/or manufacture from polycarbonate of tetrabromo-(bisphenol A)"
+                },
+                {
+                    "id": "3916 to 3921",
+                    "description": "Semi-manufactures and articles of plastics; except for headings ex 3916, ex 3917, ex 3920 and ex 3921, for which the rules are set out below:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Flat products, further worked than only surface-worked or cut into forms other than rectangular (including square); other products, further worked than only surface-worked",
+                    "processing_rule": "Manufacture in which the value of all the materials of Chapter 39 used does not exceed 50% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- Other:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- - Addition homopolymerisation products in which a single monomer contributes more than 99% by weight to the total polymer content",
+                    "processing_rule": "Manufacture in which<br />- the value of all the materials used does not exceed 50% of the ex-works price of the product,<br />- within the above limit, the value of all the materials of Chapter 39 used does not exceed 20% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- - Othe",
+                    "processing_rule": "Manufacture in which the value of all the materials of Chapter 39 used does not exceed 20% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "ex 3920",
+                    "description": "- Ionomer sheet or film",
+                    "processing_rule": "Manufacture from a thermoplastic partial salt which is a copolymer of ethylene and metacrylic acid partly neutralised with metal ions, mainly zinc and sodium"
+                },
+                {
+                    "id": "",
+                    "description": "- Sheets of regenerated cellulose, polyamides or polyethylene",
+                    "processing_rule": "Manufacture in which the value of all the materials of the same heading as the product used does not exceed 20% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "40",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 40",
+                    "processing_rule": "Rubber and articles thereof; except for:<br />Manufacture from materials of any heading, except that of the product"
+                },
+                {
+                    "id": "4012",
+                    "description": "Retreaded or used pneumatic tyres of rubber; solid or cushion tyres, tyre treads and tyre flaps, of rubber:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Retreaded pneumatic, solid or cushion tyres, of rubbe",
+                    "processing_rule": "Retreading of used tyres"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from materials of any heading, except those of headings 4011 and 4012"
+                }
+            ]
+        },
+        {
+            "number": "41",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 41",
+                    "processing_rule": "Raw hides and skins (other than furskins) and leather; except for:<br />Manufacture from materials of any heading, except that of the product"
+                }
+            ]
+        },
+        {
+            "number": "42",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 42",
+                    "processing_rule": "Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk worm gut)<br />Manufacture from materials of any heading, except that of the product"
+                }
+            ]
+        },
+        {
+            "number": "43",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 43",
+                    "processing_rule": "Furskins and artificial fur; manufactures thereof; except for:<br />Manufacture from materials of any heading, except that of the product"
+                },
+                {
+                    "id": "ex 4302",
+                    "description": "Tanned or dressed furskins, assembled:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Plates, crosses and similar forms",
+                    "processing_rule": "Bleaching or dyeing, in addition to cutting and assembly of non-assembled tanned or dressed furskins"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from non-assembled, tanned or dressed furskins"
+                }
+            ]
+        },
+        {
+            "number": "44",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 44",
+                    "processing_rule": "Wood and articles of wood; wood charcoal; except for:<br />Manufacture from materials of any heading, except that of the product"
+                },
+                {
+                    "id": "ex 4409",
+                    "description": "Wood continuously shaped along any of its edges, ends or faces, whether or not planed, sanded or end-jointed:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Sanded or end-jointed",
+                    "processing_rule": "Sanding or end-jointing"
+                },
+                {
+                    "id": "",
+                    "description": "- Beadings and mouldings",
+                    "processing_rule": "Beading or moulding"
+                },
+                {
+                    "id": "ex 4418",
+                    "description": "- Builders' joinery and carpentry of wood",
+                    "processing_rule": "Manufacture from materials of any heading, except that of the product. However, cellular wood panels, shingles and shakes may be used"
+                },
+                {
+                    "id": "",
+                    "description": "- Beadings and mouldings",
+                    "processing_rule": "Beading or moulding"
+                }
+            ]
+        },
+        {
+            "number": "45",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 45",
+                    "processing_rule": "Cork and articles of cork; except for:<br />Manufacture from materials of any heading, except that of the product"
+                }
+            ]
+        },
+        {
+            "number": "46",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 46",
+                    "processing_rule": "Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork<br />Manufacture from materials of any heading, except that of the product"
+                }
+            ]
+        },
+        {
+            "number": "47",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 47",
+                    "processing_rule": "Pulp of wood or of other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard<br />Manufacture from materials of any heading, except that of the product"
+                }
+            ]
+        },
+        {
+            "number": "48",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 48",
+                    "processing_rule": "Paper and paperboard; articles of paper pulp, of paper or of paperboard; except for:<br />Manufacture from materials of any heading, except that of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "49",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 49",
+                    "processing_rule": "Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans; except for:<br />Manufacture from materials of any heading, except that of the product"
+                },
+                {
+                    "id": "4910",
+                    "description": "Calendars of any kind, printed, including calendar blocks:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Calendars of the 'perpetual' type or with replaceable blocks mounted on bases other than paper or paperboard",
+                    "processing_rule": "Manufacture<br />- from materials of any heading, except that of the product,<br />- in which the value of all the materials used does not exceed 50% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from materials of any heading, except those of headings 4909 and 4911"
+                }
+            ]
+        },
+        {
+            "number": "50",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 50",
+                    "processing_rule": "Silk; except for:<br />Manufacture from materials of any heading, except that of the product"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "5007",
+                    "description": "Woven fabrics of silk or of silk waste:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Incorporating rubber thread",
+                    "processing_rule": "Manufacture from single yarn"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from:<br />- coir yarn,<br />- natural fibres,<br />- man-made staple fibres, not carded or combed or otherwise prepared for spinning,<br />- chemical materials or textile pulp,"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "51",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 51",
+                    "processing_rule": "Wool, fine or coarse animal hair; horsehair yarn and woven fabric; except for:<br />Manufacture from materials of any heading, except that of the product"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "5111 to 5113",
+                    "description": "Woven fabrics of wool, of fine or coarse animal hair or of horsehair:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Incorporating rubber thread",
+                    "processing_rule": "Manufacture from single yarn"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from<br />- coir yarn,<br />- natural fibres,<br />- man-made staple fibres, not carded or combed or otherwise prepared for spinning,<br />- chemical materials or textile pulp,"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "52",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 52",
+                    "processing_rule": "Cotton; except for:<br />Manufacture from materials of any heading, except that of the product"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "5208 to 5212",
+                    "description": "Woven fabrics of cotton:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Incorporating rubber thread",
+                    "processing_rule": "Manufacture from single yarn"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from:<br />- coir yarn,<br />- natural fibres,<br />- man-made staple fibres, not carded or combed or otherwise prepared for spinning,<br />- chemical materials or textile pulp,"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "53",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 53",
+                    "processing_rule": "Other vegetable textile fibres; paper yarn and woven fabrics of paper yarn; except for:<br />Manufacture from materials of any heading, except that of the product"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "5309 to 5311",
+                    "description": "Woven fabrics of other vegetable textile fibres; woven fabrics of paper yarn:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Incorporating rubber thread",
+                    "processing_rule": "Manufacture from single yarn"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from:<br />- coir yarn,<br />- jute yarn,<br />- natural fibres,<br />- man-made staple fibres, not carded or combed or otherwise prepared for spinning,<br />- chemical materials or textile pulp,"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "54",
+            "rows": [
+                {
+                    "id": "5401 to 5406",
+                    "description": "Yarn, monofilament and thread of man-made filaments",
+                    "processing_rule": "Manufacture from:<br />- raw silk or silk waste, carded or combed or otherwise prepared for spinning,<br />- natural fibres, not carded or combed or otherwise prepared for spinning,<br />- chemical materials or textile pulp,<br />- paper-making materials"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "5407 and 5408",
+                    "description": "Woven fabrics of man-made filament yarn:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Incorporating rubber thread",
+                    "processing_rule": "Manufacture from single yarn"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from:<br />- coir yarn,<br />- natural fibres,<br />- man-made staple fibres, not carded or combed or otherwise prepared for spinning,<br />- chemical materials or textile pulp,"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "55",
+            "rows": [
+                {
+                    "id": "5501 to 5507",
+                    "description": "Man-made staple fibres",
+                    "processing_rule": "Manufacture from chemical materials or textile pulp"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "5512 to 5516",
+                    "description": "Woven fabrics of man-made staple fibres:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Incorporating rubber thread",
+                    "processing_rule": "Manufacture from single yarn"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from:<br />- coir yarn,<br />- natural fibres,<br />- man-made staple fibres, not carded or combed or otherwise prepared for spinning,<br />- chemical materials or textile pulp,"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "56",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 56",
+                    "processing_rule": "Wadding, felt and non-wovens; special yarns; twine, cordage, ropes and cables and articles thereof; except for:<br />Manufacture from:<br />- coir yarn,<br />- natural fibres,<br />- chemical materials or textile pulp,<br />- paper-making materials"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "5602",
+                    "description": "Felt, whether or not impregnated, coated, covered or laminated:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Needleloom felt",
+                    "processing_rule": "Manufacture from:<br />- natural fibres,<br />- chemical materials or textile pulp<br />However:<br />- polypropylene filament of heading 5402,<br />- polypropylene fibres of heading 5503 or 5506,<br />- polypropylene filament tow of heading 5501,of which the denomination in all cases of a single filament or fibre is less than 9 decitex, may be used, provided that their total value does not exceed 40% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from:<br />- natural fibres,<br />- man-made staple fibres made from casein,<br />- chemical materials or textile pulp"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "5604",
+                    "description": "Rubber thread and cord, textile covered; textile yarn, and strip and the like of heading 5404 or 5405, impregnated, coated, covered or sheathed with rubber or plastics:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Rubber thread and cord, textile covered",
+                    "processing_rule": "Manufacture from rubber thread or cord, not textile covered"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from:<br />- natural fibres, not carded or combed or otherwise processed for spinning,<br />- chemical materials or textile pulp,<br />- paper-making materials"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "57",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 57",
+                    "processing_rule": "Carpets and other textile floor coverings:"
+                },
+                {
+                    "id": "",
+                    "description": "- Of needleloom felt",
+                    "processing_rule": "Manufacture from:<br />- natural fibres,<br />- chemical materials or textile pulpHowever:<br />- polypropylene filament of heading 5402,<br />- polypropylene fibres of heading 5503 or 5506,<br />- polypropylene filament tow of heading 5501,of which the denomination in all cases of a single filament or fibre is less than 9 decitex, may be used, provided that their total value does not exceed 40% of the ex-works price of the productJute fabric may be used as a backing"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Of other felt",
+                    "processing_rule": "Manufacture from:<br />- natural fibres, not carded or combed or otherwise processed for spinning,<br />- chemical materials or textile pulp"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from:<br />- coir yarn or jute yarn,<br />- synthetic or artificial filament yarn,<br />- natural fibres,<br />- man-made staple fibres, not carded or combed or otherwise processed for spinningJute fabric may be used as a backing"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "58",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 58",
+                    "processing_rule": "Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery; except for:"
+                },
+                {
+                    "id": "",
+                    "description": "- Combined with rubber thread",
+                    "processing_rule": "Manufacture from single yarn"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from:<br />- natural fibres,<br />- man-made staple fibres, not carded or combed or otherwise processed for spinning,<br />- chemical materials or textile pulporPrinting accompanied by at least two preparatory or finishing operations (such as scouring, bleaching, mercerising, heat setting, raising, calendering, shrink resistance processing, permanent finishing, decatising, impregnating, mending and burling), provided that the value of the unprinted fabric used does not exceed 47,5% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "59",
+            "rows": [
+                {
+                    "id": "5901",
+                    "description": "Textile fabrics coated with gum or amylaceous substances, of a kind used for the outer covers of books or the like; tracing cloth; prepared painting canvas; buckram and similar stiffened textile fabrics of a kind used for hat foundations",
+                    "processing_rule": "Manufacture from yarn"
+                },
+                {
+                    "id": "5902",
+                    "description": "Tyre cord fabric of high tenacity yarn of nylon or other polyamides, polyesters or viscose rayon:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Containing not more than 90% by weight of textile materials",
+                    "processing_rule": "Manufacture from yarn"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from chemical materials or textile pulp"
+                },
+                {
+                    "id": "5905",
+                    "description": "Textile wall coverings:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Impregnated, coated, covered or laminated with rubber, plastics or other materials",
+                    "processing_rule": "Manufacture from yarn"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from:<br />- coir yarn,<br />- natural fibres,<br />- man-made staple fibres, not carded or combed or otherwise processed for spinning,<br />- chemical materials or textile pulporPrinting accompanied by at least two preparatory or finishing operations (such as scouring, bleaching, mercerising, heat setting, raising, calendering, shrink resistance processing, permanent finishing, decatising, impregnating, mending and burling), provided that the value of the unprinted fabric used does not exceed 47,5% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "5906",
+                    "description": "Rubberised textile fabrics, other than those of heading 5902:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Knitted or crocheted fabrics",
+                    "processing_rule": "Manufacture from:<br />- natural fibres,<br />- man-made staple fibres, not carded or combed or otherwise processed for spinning,<br />- chemical materials or textile pulp"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Other fabrics made of synthetic filament yarn, containing more than 90% by weight of textile materials",
+                    "processing_rule": "Manufacture from chemical materials"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from yarn"
+                },
+                {
+                    "id": "5908",
+                    "description": "Textile wicks, woven, plaited or knitted, for lamps, stoves, lighters, candles or the like; incandescent gas mantles and tubular knitted gas mantle fabric therefor, whether or not impregnated:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Incandescent gas mantles, impregnated",
+                    "processing_rule": "Manufacture from tubular knitted gas-mantle fabric"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from materials of any heading, except that of the product"
+                },
+                {
+                    "id": "5909 to 5911",
+                    "description": "Textile articles of a kind suitable for industrial use:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Polishing discs or rings other than of felt of heading 5911",
+                    "processing_rule": "Manufacture from yarn or waste fabrics or rags of heading 6310"
+                },
+                {
+                    "id": "",
+                    "description": "- Woven fabrics, of a kind commonly used in papermaking or other technical uses, felted or not, whether or not impregnated or coated, tubular or endless with single or multiple warp and/or weft, or flat woven with multiple warp and/or weft of heading 5911",
+                    "processing_rule": "Manufacture from:- coir yarn,- the following materials:- - yarn of polytetrafluoroethylene,- - yarn, multiple, of polyamide, coated impregnated or covered with a phenolic resin,- - yarn of synthetic textile fibres of aromatic polyamides, obtained by polycondensation of m-phenylenediamine and isophthalic acid,- - monofil of polytetrafluoroethylene,- - yarn of synthetic textile fibres of poly(p-phenylene terephthalamide),- - glass fibre yarn, coated with phenol resin and gimped with acrylic yarn,- - copolyester monofilaments of a polyester and a resin of terephthalic acid and 1,4-cyclohexanediethanol and isophthalic acid,- - natural fibres,- - man-made staple fibres not carded or combed or otherwise processed for spinning,or- - chemical materials or textile pulp"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from:<br />- coir yarn,<br />- natural fibres,<br />- man-made staple fibres, not carded or combed or otherwise processed for spinning,<br />- chemical materials or textile pulp"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "60",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 60",
+                    "processing_rule": "Knitted or crocheted fabrics<br />Manufacture from:<br />- natural fibres,<br />- man-made staple fibres, not carded or combed or otherwise processed for spinning,<br />- chemical materials or textile pulp"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "61",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 61",
+                    "processing_rule": "Articles of apparel and clothing accessories, knitted or crocheted:"
+                },
+                {
+                    "id": "",
+                    "description": "- Obtained by sewing together or otherwise assembling, two or more pieces of knitted or crocheted fabric which have been either cut to form or obtained directly to form",
+                    "processing_rule": "Manufacture from yarn"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from:<br />- natural fibres,<br />- man-made staple fibres, not carded or combed or otherwise processed for spinning,<br />- chemical materials or textile pulp"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "62",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 62",
+                    "processing_rule": "Articles of apparel and clothing accessories, not knitted or crocheted; except for:<br />Manufacture from yarn"
+                },
+                {
+                    "id": "6213 and 6214",
+                    "description": "Handkerchiefs, shawls, scarves, mufflers, mantillas, veils and the like:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Embroidered",
+                    "processing_rule": "Manufacture from unbleached single yarnorManufacture from unembroidered fabric, provided that the value of the unembroidered fabric used does not exceed 40% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from unbleached single yarnorMaking up, followed by printing accompanied by at least two preparatory or finishing operations (such as scouring, bleaching, mercerising, heat setting, raising, calendering, shrink resistance processing, permanent finishing, decatising, impregnating, mending and burling), provided that the value of all the unprinted goods of headings 6213 and 6214 used does not exceed 47,5% of the ex-works price of the product"
+                },
+                {
+                    "id": "6217",
+                    "description": "Other made up clothing accessories; parts of garments or of clothing accessories, other than those of heading 6212:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Embroidered",
+                    "processing_rule": "Manufacture from yarnorManufacture from unembroidered fabric, provided that the value of the unembroidered fabric used does not exceed 40% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- Fire-resistant equipment of fabric covered with foil of aluminised polyeste",
+                    "processing_rule": "Manufacture from yarnorManufacture from uncoated fabric, provided that the value of the uncoated fabric used does not exceed 40% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- Interlinings for collars and cuffs, cut out",
+                    "processing_rule": "Manufacture<br />- from materials of any heading, except that of the product,<br />- in which the value of all the materials used does not exceed 40% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from yarn"
+                }
+            ]
+        },
+        {
+            "number": "63",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 63",
+                    "processing_rule": "Other made-up textile articles; sets; worn clothing and worn textile articles; rags; except for:<br />Manufacture from materials of any heading, except that of the product"
+                },
+                {
+                    "id": "6301 to 6304",
+                    "description": "Blankets, travelling rugs, bed linen etc.; curtains etc.; other furnishing articles:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Of felt, of nonwovens",
+                    "processing_rule": "Manufacture from:<br />- natural fibres,<br />- chemical materials or textile pulp"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Other:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- - Embroidered",
+                    "processing_rule": "Manufacture from unbleached single yarnorManufacture from unembroidered fabric (other than knitted or crocheted), provided that the value of the unembroidered fabric used does not exceed 40% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- - Othe",
+                    "processing_rule": "Manufacture from unbleached single yarn"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "6306",
+                    "description": "Tarpaulins, awnings and sunblinds; tents; sails for boats, sailboards or landcraft; camping goods:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Of nonwovens",
+                    "processing_rule": "Manufacture from:<br />- natural fibres,<br />- chemical materials or textile pulp"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from unbleached single yarn"
+                }
+            ]
+        },
+        {
+            "number": "64",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 64",
+                    "processing_rule": "Footwear, gaiters and the like; parts of such articles; except for:<br />Manufacture from materials of any heading, except from assemblies of uppers affixed to inner soles or to other sole components of heading 6406"
+                }
+            ]
+        },
+        {
+            "number": "65",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 65",
+                    "processing_rule": "Headgear and parts thereof; except for:<br />Manufacture from materials of any heading, except that of the product"
+                }
+            ]
+        },
+        {
+            "number": "66",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 66",
+                    "processing_rule": "Umbrellas, sun umbrellas, walking-sticks, seat-sticks, whips, riding-crops, and parts thereof; except for:<br />Manufacture from materials of any heading, except that of the product"
+                }
+            ]
+        },
+        {
+            "number": "67",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 67",
+                    "processing_rule": "Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hai<br />Manufacture from materials of any heading, except that of the product"
+                }
+            ]
+        },
+        {
+            "number": "68",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 68",
+                    "processing_rule": "Articles of stone, plaster, cement, asbestos, mica or similar materials; except for:<br />Manufacture from materials of any heading, except that of the product"
+                }
+            ]
+        },
+        {
+            "number": "69",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 69",
+                    "processing_rule": "Ceramic products<br />Manufacture from materials of any heading, except that of the product"
+                }
+            ]
+        },
+        {
+            "number": "70",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 70",
+                    "processing_rule": "Glass and glassware; except for:<br />Manufacture from materials of any heading, except that of the product"
+                },
+                {
+                    "id": "7006",
+                    "description": "Glass of heading 7003, 7004 or 7005, bent, edge-worked, engraved, drilled, enamelled or otherwise worked, but not framed or fitted with other materials:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Glass-plate substrates, coated with a dielectric thin film, and of a semiconductor grade in accordance with SEMII-standards",
+                    "processing_rule": "Manufacture from non-coated glass-plate substrate of heading 7006"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from materials of heading 7001"
+                },
+                {
+                    "id": "",
+                    "description": "o",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "71",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 71",
+                    "processing_rule": "Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin; except for:<br />Manufacture from materials of any heading, except that of the product"
+                },
+                {
+                    "id": "7106, 7108 and 7110",
+                    "description": "Precious metals:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Unwrought",
+                    "processing_rule": "Manufacture from materials of any heading, except those of headings 7106, 7108 and 7110orElectrolytic, thermal or chemical separation of precious metals of heading 7106, 7108 or 7110orAlloying of precious metals of heading 7106, 7108 or 7110 with each other or with base metals"
+                },
+                {
+                    "id": "",
+                    "description": "- Semi-manufactured or in powder form",
+                    "processing_rule": "Manufacture from unwrought precious metals"
+                }
+            ]
+        },
+        {
+            "number": "72",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 72",
+                    "processing_rule": "Iron and steel; except for:<br />Manufacture from materials of any heading, except that of the product"
+                }
+            ]
+        },
+        {
+            "number": "73",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 73",
+                    "processing_rule": "Articles of iron or steel; except for:<br />Manufacture from materials of any heading, except that of the product"
+                }
+            ]
+        },
+        {
+            "number": "74",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 74",
+                    "processing_rule": "Copper and articles thereof; except for:<br />Manufacture<br />- from materials of any heading, except that of the product,<br />- in which the value of all the materials used does not exceed 50% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "7403",
+                    "description": "Refined copper and copper alloys, unwrought:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Refined coppe",
+                    "processing_rule": "Manufacture from materials of any heading, except that of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- Copper alloys and refined copper containing other elements",
+                    "processing_rule": "Manufacture from refined copper, unwrought, or waste and scrap of coppe"
+                }
+            ]
+        },
+        {
+            "number": "75",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 75",
+                    "processing_rule": "Nickel and articles thereof; except for:<br />Manufacture<br />- from materials of any heading, except that of the product,<br />- in which the value of all the materials used does not exceed 50% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "76",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 76",
+                    "processing_rule": "Aluminium and articles thereof; except for:<br />Manufacture<br />- from materials of any heading, except that of the product,<br />- in which the value of all the materials used does not exceed 50% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "77",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 77",
+                    "processing_rule": "Reserved for possible future use in the HS"
+                }
+            ]
+        },
+        {
+            "number": "78",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 78",
+                    "processing_rule": "Lead and articles thereof; except for:<br />Manufacture<br />- from materials of any heading, except that of the product,<br />- in which the value of all the materials used does not exceed 50% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "7801",
+                    "description": "Unwrought lead:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Refined lead",
+                    "processing_rule": "Manufacture from 'bullion' or 'work' lead"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from materials of any heading, except that of the product. However, waste and scrap of heading 7802 may not be used"
+                }
+            ]
+        },
+        {
+            "number": "79",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 79",
+                    "processing_rule": "Zinc and articles thereof; except for:<br />Manufacture<br />- from materials of any heading, except that of the product,<br />- in which the value of all the materials used does not exceed 50% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "80",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 80",
+                    "processing_rule": "Tin and articles thereof; except for:<br />Manufacture<br />- from materials of any heading, except that of the product,<br />- in which the value of all the materials used does not exceed 50% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "81",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 81",
+                    "processing_rule": "Other base metals; cermets; articles thereof:"
+                },
+                {
+                    "id": "",
+                    "description": "- Other base metals, wrought; articles thereof",
+                    "processing_rule": "Manufacture in which the value of all the materials of the same heading as the product used does not exceed 50% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture from materials of any heading, except that of the product"
+                }
+            ]
+        },
+        {
+            "number": "82",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 82",
+                    "processing_rule": "Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal; except for:<br />Manufacture from materials of any heading, except that of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "83",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 83",
+                    "processing_rule": "Miscellaneous articles of base metal; except for:<br />Manufacture from materials of any heading, except that of the product"
+                }
+            ]
+        },
+        {
+            "number": "84",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 84",
+                    "processing_rule": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof; except for:<br />Manufacture<br />- from materials of any heading, except that of the product,<br />- in which the value of all the materials used does not exceed 40% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "8429",
+                    "description": "Self-propelled bulldozers, angledozers, graders, levellers, scrapers, mechanical shovels, excavators, shovel loaders, tamping machines and road rollers:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Road rollers",
+                    "processing_rule": "Manufacture in which the value of all the materials used does not exceed 40% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture in which<br />- the value of all the materials used does not exceed 40% of the ex-works price of the product,<br />- within the above limit, the value of all the materials of heading 8431 used does not exceed 10% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "8452",
+                    "description": "Sewing machines, other than book-sewing machines of heading 8440; furniture, bases and covers specially designed for sewing machines; sewing machine needles:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Sewing machines (lock stitch only) with heads of a weight not exceeding 16 kg without motor or 17 kg with moto",
+                    "processing_rule": "Manufacture in which<br />- the value of all the materials used does not exceed 40% of the ex-works price of the product,<br />- the value of all the non-originating materials used in assembling the head (without motor) does not exceed the value of all the originating materials used,<br />- the thread-tension, crochet and zigzag mechanisms used are originating"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture in which the value of all the materials used does not exceed 40% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "85",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 85",
+                    "processing_rule": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles; except for:<br />Manufacture<br />- from materials of any heading, except that of the product,<br />- in which the value of all the materials used does not exceed 40% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "8524",
+                    "description": "Records, tapes and other recorded media for sound or other similarly recorded phenomena, including matrices and masters for the production of records, but excluding products of Chapter 37:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Matrices and masters for the production of records",
+                    "processing_rule": "Manufacture in which the value of all the materials used does not exceed 40% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture in which<br />- the value of all the materials used does not exceed 40% of the ex-works price of the product,<br />- within the above limit, the value of all the materials of heading 8523 used does not exceed 10% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "8529",
+                    "description": "Parts suitable for use solely or principally with the apparatus of headings 8525 to 8528:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Suitable for use solely or principally with video recording or reproducing apparatus",
+                    "processing_rule": "Manufacture in which the value of all the materials used does not exceed 40% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture in which<br />- the value of all the materials used does not exceed 40% of the ex-works price of the product,<br />- the value of all the non-originating materials used does not exceed the value of all the originating materials used"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "8542",
+                    "description": "Electronic integrated circuits and microassemblies:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Monolithic integrated circuits",
+                    "processing_rule": "Manufacture in which<br />- the value of all the materials used does not exceed 40% of the ex-works price of the product, and<br />- within the above limit, the value of all the materials of headings 8541 and 8542 used does not exceed 10% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "or<br />The operation of diffusion (in which integrated circuits are formed on a semi-conductor substrate by the selective introduction of an appropriate dopant), whether or not assembled and/or tested in a country other than those specified in Articles 3 and 4",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture in which<br />- the value of all the materials used does not exceed 40% of the ex-works price of the product,<br />- within the above limit, the value of all the materials of headings 8541 and 8542 used does not exceed 10% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "86",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 86",
+                    "processing_rule": "Railway or tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds; except for:<br />Manufacture in which the value of all the materials used does not exceed 40% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "87",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 87",
+                    "processing_rule": "Vehicles other than railway or tramway rolling-stock, and parts and accessories thereof; except for:<br />Manufacture in which the value of all the materials used does not exceed 40% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "8711",
+                    "description": "Motorcycles (including mopeds) and cycles fitted with an auxiliary motor, with or without side-cars; side-cars:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- With reciprocating internal combustion piston engine of a cylinder capacity:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- - Not exceeding 50 cm3",
+                    "processing_rule": "Manufacture in which<br />- the value of all the materials used does not exceed 40% of the ex-works price of the product,<br />- the value of all the non-originating materials used does not exceed the value of all the originating materials used"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- - Exceeding 50 cm3",
+                    "processing_rule": "Manufacture in which<br />- the value of all the materials used does not exceed 40% of the ex-works price of the product,<br />- the value of all the non-originating materials used does not exceed the value of all the originating materials used"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture in which<br />- the value of all the materials used does not exceed 40% of the ex-works price of the product,<br />- the value of all the non-originating materials used does not exceed the value of all the originating materials used"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "88",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 88",
+                    "processing_rule": "Aircraft, spacecraft, and parts thereof; except for:<br />Manufacture from materials of any heading, except that of the product"
+                }
+            ]
+        },
+        {
+            "number": "89",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 89",
+                    "processing_rule": "Ships, boats and floating structures<br />Manufacture from materials of any heading, except that of the product. However, hulls of heading 8906 may not be used"
+                }
+            ]
+        },
+        {
+            "number": "90",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 90",
+                    "processing_rule": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof; except for:<br />Manufacture<br />- from materials of any heading, except that of the product,<br />- in which the value of all the materials used does not exceed 40% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "9018",
+                    "description": "Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electro-medical apparatus and sight-testing instruments:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Dentists' chairs incorporating dental appliances or dentists' spittoons",
+                    "processing_rule": "Manufacture from materials of any heading, including other materials of heading 9018"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture<br />- from materials of any heading, except that of the product,<br />- in which the value of all the materials used does not exceed 40% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "9028",
+                    "description": "Gas, liquid or electricity supply or production meters, including calibrating meters therefor:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Parts and accessories",
+                    "processing_rule": "Manufacture in which the value of all the materials used does not exceed 40% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture in which<br />- the value of all the materials used does not exceed 40% of the ex-works price of the product,<br />- the value of all the non-originating materials used does not exceed the value of all the originating materials used"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "91",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 91",
+                    "processing_rule": "Clocks and watches and parts thereof; except for:<br />Manufacture in which the value of all the materials used does not exceed 40% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "9113",
+                    "description": "Watch straps, watch bands and watch bracelets, and parts thereof:",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "- Of base metal, whether or not gold- or silver-plated, or of metal clad with precious metal",
+                    "processing_rule": "Manufacture in which the value of all the materials used does not exceed 40% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "- Othe",
+                    "processing_rule": "Manufacture in which the value of all the materials used does not exceed 50% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "92",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 92",
+                    "processing_rule": "Musical instruments; parts and accessories of such articles<br />Manufacture in which the value of all the materials used does not exceed 40% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "93",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 93",
+                    "processing_rule": "Arms and ammunition; parts and accessories thereof<br />Manufacture in which the value of all the materials used does not exceed 50% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "94",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 94",
+                    "processing_rule": "Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated name-plates and the like; prefabricated buildings; except for:<br />Manufacture from materials of any heading, except that of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "95",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 95",
+                    "processing_rule": "Toys, games and sports requisites; parts and accessories thereof; except for:<br />Manufacture from materials of any heading, except that of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "96",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 96",
+                    "processing_rule": "Miscellaneous manufactured articles; except for:<br />Manufacture from materials of any heading, except that of the product"
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                },
+                {
+                    "id": "",
+                    "description": "and",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "97",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 97",
+                    "processing_rule": "Works of art, collectors' pieces and antiques<br />Manufacture from materials of any heading, except that of the product"
+                }
+            ]
+        }
+    ]
+}

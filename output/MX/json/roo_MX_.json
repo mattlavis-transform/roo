@@ -1,0 +1,979 @@
+{
+    "chapters": [
+        {
+            "number": "01",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 01",
+                    "processing_rule": "Live animals<br />All the animals of Chapter 1 used must be wholly obtained"
+                }
+            ]
+        },
+        {
+            "number": "02",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 02",
+                    "processing_rule": "Meat and edible meat offal<br />Manufacture in which all the materials of Chapters 1 and 2 used must be wholly obtained"
+                }
+            ]
+        },
+        {
+            "number": "03",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 03",
+                    "processing_rule": "Fish and crustaceans, molluscs and other aquatic invertebrates<br />Manufacture in which all the materials of Chapter 3 used must be wholly obtained"
+                }
+            ]
+        },
+        {
+            "number": "04",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 04",
+                    "processing_rule": "Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included; except for:<br />Manufacture in which all the materials of Chapter 4 used must be wholly obtained."
+                }
+            ]
+        },
+        {
+            "number": "05",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 05",
+                    "processing_rule": "Products of animal origin, not elsewhere specified or included; except for:<br />Manufacture in which all the materials of Chapter 5 used must be wholly obtained"
+                }
+            ]
+        },
+        {
+            "number": "06",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 06",
+                    "processing_rule": "Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage"
+                }
+            ]
+        },
+        {
+            "number": "07",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 07",
+                    "processing_rule": "Edible vegetables and certain roots and tubers<br />Manufacture in which all the materials of Chapter 7 used must be wholly obtained"
+                }
+            ]
+        },
+        {
+            "number": "08",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 08",
+                    "processing_rule": "Edible fruit and nuts; peel of citrus fruits or melons"
+                }
+            ]
+        },
+        {
+            "number": "09",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 09",
+                    "processing_rule": "Coffee, tea, mat\u00e9 and spices; except for:<br />Manufacture in which all the materials of Chapter 9 used must be wholly obtained"
+                }
+            ]
+        },
+        {
+            "number": "10",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 10",
+                    "processing_rule": "Cereals<br />Manufacture in which all the materials of Chapter 10 used must be wholly obtained"
+                }
+            ]
+        },
+        {
+            "number": "11",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 11",
+                    "processing_rule": "Products of the milling industry; malt; starches; inulin; wheat gluten; except for:<br />Manufacture in which all the cereals, edible vegetables, roots and tubers of heading No 0714 or fruit used must be wholly obtained"
+                }
+            ]
+        },
+        {
+            "number": "12",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 12",
+                    "processing_rule": "Oils seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodde<br />Manufacture in which all the materials of Chapter 12 used must be wholly obtained"
+                }
+            ]
+        },
+        {
+            "number": "13",
+            "rows": [
+                {
+                    "id": "1301",
+                    "description": "Lac; natural gums, resins, gum-resins and oleoresins (for example, balsams)",
+                    "processing_rule": "Manufacture in which the value of any materials of heading No 1301 used may not exceed 50% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "14",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 14",
+                    "processing_rule": "Vegetable plaiting materials; vegetable products not elsewhere specified or included<br />Manufacture in which all the materials of Chapter 14 used must be wholly obtained"
+                }
+            ]
+        },
+        {
+            "number": "15",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 15",
+                    "processing_rule": "Animal or vegetable fats and oils and their cleavage products; prepared edible fats; animal or vegetables waxes; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "16",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 16",
+                    "processing_rule": "Preparations of meat, of fish or of crustaceans, molluscs or other aquatic invertebrates<br />Manufacture from animals of Chapter 1. All the materials of Chapter 3 used must be wholly obtained"
+                }
+            ]
+        },
+        {
+            "number": "17",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 17",
+                    "processing_rule": "Sugars and sugar confectionery; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "18",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 18",
+                    "processing_rule": "Cocoa and cocoa preparations"
+                }
+            ]
+        },
+        {
+            "number": "19",
+            "rows": [
+                {
+                    "id": "1901",
+                    "description": "Malt extract; food preparations of flour, meal, starch or malt extract, not containing cocoa or containing less than 40% by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included; food preparations of goods of heating Nos 0401 to 0404, not containing cocoa or containing less than 5% by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included:",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "20",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 20",
+                    "processing_rule": "Preparations of vegetables, fruit, nuts or other parts of plants; except for:<br />Manufacture in which all the fruit, nuts or vegetables used must be wholly obtained"
+                }
+            ]
+        },
+        {
+            "number": "21",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 21",
+                    "processing_rule": "Miscellaneous edible preparations; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "22",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 22",
+                    "processing_rule": "Beverages, spirits and vinegar; except for:"
+                }
+            ]
+        },
+        {
+            "number": "23",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 23",
+                    "processing_rule": "Residues and waste from the food industries; prepared animal fodder; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "24",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 24",
+                    "processing_rule": "Tobacco and manufactured tobacco, substitutes; except for:<br />Manufacture in which all the materials of Chapter 24 used must be wholly obtained."
+                }
+            ]
+        },
+        {
+            "number": "25",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 25",
+                    "processing_rule": "Salt; sulfur; earths and stone; plastering materials, lime and cement; except fo<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "26",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 26",
+                    "processing_rule": "Ores, slag and ash<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "27",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 27",
+                    "processing_rule": "Mineral fuels, mineral oils and products of their distillation; bituminous substances, mineral waxes; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "28",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 28",
+                    "processing_rule": "Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes; except fo<br />Manufacture in which all the materials used are classified within a heading other than that of the product. However, materials classified within the same heading may be used provided their value does not exceed 20% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "29",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 29",
+                    "processing_rule": "Organic chemicals; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product. However, materials classified within the same heading may be used provided their value does not exceed 20% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "30",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 30",
+                    "processing_rule": "Pharmaceutical products; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product. However, materials classified within the same heading may be used provided their value does not exceed 20% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "31",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 31",
+                    "processing_rule": "Fertilisers, except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product. However, materials classified within the same heading may be used provided their value does not exceed 20% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "32",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 32",
+                    "processing_rule": "Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints and varnishes; putty and other mastics; inks; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product. However, materials classified within the same heading may be used provided their value does not exceed 20% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "33",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 33",
+                    "processing_rule": "Essential oils and resinoids; perfumery, cosmetic or toilet preparations, except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product. However, materials classified within the same heading may be used provided their value does not exceed 20% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "34",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 34",
+                    "processing_rule": "Soap, organic surface-active agents, washing preparations, artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modeling pastes, \u00abdental waxes\u00bb and dental preparations with a basis of plaster, except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product. However, materials classified within the same heading may be used provided their value does not exceed 20% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "35",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 35",
+                    "processing_rule": "Albuminoidal substances; modified starches; glues; enzymes; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product. However, materials classified within the same heading may be used provided their value does not exceed 20% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "36",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 36",
+                    "processing_rule": "Explosives; pyrotechnic products; pyrophoric alloys; certain combustible preparations<br />Manufacture in which all the materials used are classified within a heading other than that of the product. However, materials classified within the same heading may be used provided their value does not exceed 20% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "37",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 37",
+                    "processing_rule": "Photographic or cinematographic goods; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product. However, materials classified within the same heading may be used provided their value does not exceed 20% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "38",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 38",
+                    "processing_rule": "Miscellaneous chemical products, except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product. However, materials classified within the same heading may be used provided their value does not exceed 20% of the ex-works price of the product"
+                },
+                {
+                    "id": "",
+                    "description": "Prepared binders for foundry moulds or cores based on natural resinous products<br />Naphthenic acids, their water insoluble salts and their esters<br />Sorbitol other than that of heading No 2905<br />Petroleum sulphonates, excluding petroleum sulphonates of alkali metals, of ammonium or of ethanolamines; thiophenated sulphonic acids of oils obtained from bituminous minerals, and their salts<br />Ion exchangers<br />Getters for vacuum tubes<br />Alkaline iron oxide for the purifcation of gas<br />Ammoniacal gas liquors and spent oxide produced in coal gas purification<br />Sulphonaphthenic acids, their water insoluble salts and their esters<br />Fusel oil and Dippel's oil<br />Mixtures of salts having different anions<br />Copying pastes with a basis of gelatin, whether or not on a paper or textile backing",
+                    "processing_rule": "Manufacture in which all the materials used are classified within a heading other than that of the product. However, materials classified within the same heading may be used provided their value does not exceed 20% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "39",
+            "rows": [
+                {
+                    "id": "3901",
+                    "description": "Polymers of ethylene, in primary forms:",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "40",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 40",
+                    "processing_rule": "Rubber and articles thereof; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "41",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 41",
+                    "processing_rule": "Raw hides ans skins (other than furskins) and leather; except fo<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "42",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 42",
+                    "processing_rule": "Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk worm gut)<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "43",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 43",
+                    "processing_rule": "Furskins and artificial fur; manufactures thereof; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "44",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 44",
+                    "processing_rule": "Wood and articles of wood; wood charcoal; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "45",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 45",
+                    "processing_rule": "Cork and articles of cork; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "46",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 46",
+                    "processing_rule": "Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "47",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 47",
+                    "processing_rule": "Pulp of wood or of other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "48",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 48",
+                    "processing_rule": "Paper and paperboard; articles of paper pulp, of paper or of paperboard; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "49",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 49",
+                    "processing_rule": "Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "50",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 50",
+                    "processing_rule": "Silk; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "51",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 51",
+                    "processing_rule": "Wool, fine or coarse animal hair; horsehair yarn and woven fabric; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "52",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 52",
+                    "processing_rule": "Cotton; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "53",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 53",
+                    "processing_rule": "Other vegetable textile fibres; paper yarn and woven fabrics of paper yarn; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "54",
+            "rows": [
+                {
+                    "id": "5401 to 5406",
+                    "description": "Yarn, monofilament and thread of man-made filaments",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "55",
+            "rows": [
+                {
+                    "id": "5501 to 5507",
+                    "description": "Man-made staple fibres",
+                    "processing_rule": "Manufacture from chemical materials or textile pulp"
+                }
+            ]
+        },
+        {
+            "number": "56",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 56",
+                    "processing_rule": "Wadding, felt and non-wovens; special yarns; twine, cordage, ropes and cables and articles thereof; except for:"
+                }
+            ]
+        },
+        {
+            "number": "57",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 57",
+                    "processing_rule": "Carpets and other textile floor coverings:"
+                }
+            ]
+        },
+        {
+            "number": "58",
+            "rows": [
+                {
+                    "id": "5801",
+                    "description": "Woven pile fabrics and chenille fabrics, other than fabrics of heading No 5802 or 5806",
+                    "processing_rule": ""
+                }
+            ]
+        },
+        {
+            "number": "59",
+            "rows": [
+                {
+                    "id": "5901",
+                    "description": "Textile fabrics coated with gum or amylaceous substances, of a kind used for the outer covers of books or the like; tracing cloth; prepared painting canvas; buckram and similar stiffened textile fabrics of a kind used for hat foundations",
+                    "processing_rule": "Manufacture from yarn"
+                }
+            ]
+        },
+        {
+            "number": "60",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 60",
+                    "processing_rule": "Knitted of crocheted fabrics"
+                }
+            ]
+        },
+        {
+            "number": "61",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 61",
+                    "processing_rule": "Articles of apparel and clothing accessories knitted or crocheted:"
+                }
+            ]
+        },
+        {
+            "number": "62",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 62",
+                    "processing_rule": "Articles of apparel and clothing accessories, not knitted or crocheted; except for:<br />Manufacture from yarn"
+                }
+            ]
+        },
+        {
+            "number": "63",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 63",
+                    "processing_rule": "Other made-up textile articles; sets; worn clothing and worn textile articles; rags; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "64",
+            "rows": [
+                {
+                    "id": "6401",
+                    "description": "Waterproof footwear with outer soles and uppers of rubber or of plastics, the uppers of which are neither fixed to the sole nor assembled by stitching, riveting, nailing, screwing, plugging or similar processes",
+                    "processing_rule": "Manufacture from materials of any heading except for assemblies of uppers affixed to inner soles or to other sole components of heading No 6406"
+                }
+            ]
+        },
+        {
+            "number": "65",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 65",
+                    "processing_rule": "Headgear and parts thereof, except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "66",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 66",
+                    "processing_rule": "Umbrellas, sun umbrellas, walkingsticks, seatsticks, whips, ridingcrops, and parts thereof; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "67",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 67",
+                    "processing_rule": "Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hai<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "68",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 68",
+                    "processing_rule": "Articles of stone, plaster, cement, asbestos, mica or similar materials; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "69",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 69",
+                    "processing_rule": "Ceramic products<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "70",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 70",
+                    "processing_rule": "Glass and glassware; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "71",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 71",
+                    "processing_rule": "Natural or cultured pearls, precious or semi-precious stone, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "72",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 72",
+                    "processing_rule": "Iron and steel; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "73",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 73",
+                    "processing_rule": "Articles of iron or steel; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "74",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 74",
+                    "processing_rule": "Copper and articles thereof; except for:"
+                }
+            ]
+        },
+        {
+            "number": "75",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 75",
+                    "processing_rule": "Nickel and articles thereof; except for:"
+                }
+            ]
+        },
+        {
+            "number": "76",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 76",
+                    "processing_rule": "Aluminium and articles thereof; except for:"
+                }
+            ]
+        },
+        {
+            "number": "77",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 77",
+                    "processing_rule": "Reserved for possible future use in the Harmonised System"
+                }
+            ]
+        },
+        {
+            "number": "78",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 78",
+                    "processing_rule": "Lead and articles thereof; except for:"
+                }
+            ]
+        },
+        {
+            "number": "79",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 79",
+                    "processing_rule": "Zinc and articles thereof; except for:"
+                }
+            ]
+        },
+        {
+            "number": "80",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 80",
+                    "processing_rule": "Tin and articles thereof; except for:"
+                }
+            ]
+        },
+        {
+            "number": "81",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 81",
+                    "processing_rule": "Other base metals; cermets; articles thereof:"
+                }
+            ]
+        },
+        {
+            "number": "82",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 82",
+                    "processing_rule": "Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "83",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 83",
+                    "processing_rule": "Miscellaneous articles of base metal; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "84",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 84",
+                    "processing_rule": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof; except for:"
+                }
+            ]
+        },
+        {
+            "number": "85",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 85",
+                    "processing_rule": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles; except for:"
+                }
+            ]
+        },
+        {
+            "number": "86",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 86",
+                    "processing_rule": "Railway or tramway locomotives, rolling stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic signalling equipment of all kinds; except for:<br />Manufacture in which the value of all the materials used does not exceed 40% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "87",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 87",
+                    "processing_rule": "Vehicles other than railway or tramway rolling stock, and parts and accessories thereof; except for:<br />Manufacture in which the value of all the materials used does not exceed 40% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "88",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 88",
+                    "processing_rule": "Aircraft, spacecraft, and parts thereof; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "89",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 89",
+                    "processing_rule": "Ships, boats and floating structures<br />Manufacture in which all the materials used are classified within a heading other than that of the product. However, hulls of heading No 8906 may not be used"
+                }
+            ]
+        },
+        {
+            "number": "90",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 90",
+                    "processing_rule": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof; except for:"
+                }
+            ]
+        },
+        {
+            "number": "91",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 91",
+                    "processing_rule": "Clocks and watches and parts thereof; except for:<br />Manufacture in which the value of all the materials used does not exceed 40% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "92",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 92",
+                    "processing_rule": "Musical instruments; parts and accessories of such articles<br />Manufacture in which the value of all the materials used does not exceed 40% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "93",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 93",
+                    "processing_rule": "Arms and ammunition; parts and accessories thereof<br />Manufacture in which the value of all the materials used does not exceed 50% of the ex-works price of the product"
+                }
+            ]
+        },
+        {
+            "number": "94",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 94",
+                    "processing_rule": "Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated name-plates and the like; prefabricated buildings; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "95",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 95",
+                    "processing_rule": "Toys, games and sports requisites; parts and accessories thereof; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "96",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "ex Chapter 96",
+                    "processing_rule": "Miscellaneous manufactured articles; except for:<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        },
+        {
+            "number": "97",
+            "rows": [
+                {
+                    "id": "",
+                    "description": "Chapter 97",
+                    "processing_rule": "Works of art, collectors' pieces and antiques<br />Manufacture in which all the materials used are classified within a heading other than that of the product"
+                }
+            ]
+        }
+    ]
+}
