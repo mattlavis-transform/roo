@@ -13,6 +13,8 @@ from country_object import country_object
 
 import globals as g
 
+sys.exit()
+
 rules_of_origin_scheme_sid = -1
 if len(sys.argv) > 1:
     rules_of_origin_scheme_sid = sys.argv[1]

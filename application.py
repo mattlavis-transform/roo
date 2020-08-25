@@ -1,4 +1,6 @@
 import psycopg2
+import os
+import json
 from rules_of_origin_scheme import rules_of_origin_scheme
 
 
@@ -8,7 +10,7 @@ class application(object):
         self.connect()
 
     def connect(self):
-        path = os.path.join(os.getcwd(), "output")
+        path = os.path.join(os.getcwd(), "config")
         self.CONFIG_FILE = os.path.join(path, "config.json")
         with open(self.CONFIG_FILE, 'r') as f:
             my_dict = json.load(f)
