@@ -13,7 +13,6 @@ from country_object import country_object
 
 import globals as g
 
-sys.exit()
 
 rules_of_origin_scheme_sid = -1
 if len(sys.argv) > 1:
@@ -27,7 +26,7 @@ for s in g.app.roo_scheme_list:
     my_country.rules_of_origin_scheme_sid = s.rules_of_origin_scheme_sid
     my_country.rules_of_origin_scheme_description = s.description
 
-    g.app.run_local = True
+    g.app.run_local = False
     parse_files = True
 
     if parse_files:

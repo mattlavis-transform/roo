@@ -41,3 +41,16 @@ Is documented in sql.md
 ## What the scraper does
 
 - Get a list of the schemes from the database
+- Against each scheme, one country code is specified as being the country code to scrape to get the data
+- To scrape every country would be take forever and would just repeat itself for no gain
+- For each scheme:
+  - select the code_to_scrape (which is the geographical_area_code)
+  - this is just the first alphabetically
+  - Loop through all chapters of the tariff (1 to 99, omitting 77, which is not used)
+    - Because screen-scraping is slow, take copies of the JSON, so that this can be run locally if needed
+    - Otherwise, go to https://webgate.ec.europa.eu/roo/public/v1//classic/chapter/" + chapter + "/country/" + my_country.country + "?language=EN"
+      - this is the URL called by the Trade Helpdesk angular app to populate the RoO tabs
+    - Grab the rules node of the JSON and cleanse it: the HTML is a full of errors - we need to remove all the duff HTML
+    - Write the unfiltered and the filtered JSON to local folders that can be used instead of always scraping data
+  - After all 99 chapters have been scraped and cleansed, write a single JSON file to the country's subfolder
+  - Also write a Word document equivalent
